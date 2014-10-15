@@ -1,0 +1,26 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    color: #000;
+    background: white;
+}
+
+ul {
+	list-style-type: none;
+	text-align: left;
+}
+
+.left-side {
+	float:left;
+	width:25%;
+}
+
+img {
+	width:100%;
+}
+
+.right-column {
+	float: left;
+	width:75%;
+	padding-left: 50px;
+}
